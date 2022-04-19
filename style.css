@@ -1,0 +1,47 @@
+.row {
+  background-color: black;
+  color: white;
+}
+
+body {
+  background-color: white;
+}
+
+h1 {
+  text-color: red
+  font-family: arial;
+  font-size: 72px;
+}
+
+nav {
+  border: 2px;
+  height: 30px;
+  padding: 10px;
+  text-color: black;
+}
+
+div {
+  border: 2px;
+  background-color: lightblue;
+  text-align: center;
+  font-size: 24px;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  color: green;
+}
+
+a {
+  font-family: arial;
+  font-size: 14px;
+  color: green;
+  border: 3px;
+  height: 30px;
+}
+
+
+
+
+  
